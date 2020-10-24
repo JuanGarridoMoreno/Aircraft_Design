@@ -9,7 +9,8 @@ Authors:
 Authors: 
 Cristian Asensio García
 
-Juan Garrido Moreno - 
+Juan Garrido Moreno
+
 Yi Qiang Ji Zhang - 
 Alexis Leon Delgado - 
 Alba Molina Cuadrado - 
