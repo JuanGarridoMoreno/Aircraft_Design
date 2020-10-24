@@ -7,7 +7,8 @@ Professor: Martí Coma Company
 Authors:
 
 Authors: 
-Cristian Asensio García - 
+Cristian Asensio García
+
 Juan Garrido Moreno - 
 Yi Qiang Ji Zhang - 
 Alexis Leon Delgado - 
