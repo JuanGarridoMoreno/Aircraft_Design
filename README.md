@@ -11,11 +11,18 @@ Cristian Asensio García
 
 Juan Garrido Moreno
 
-Yi Qiang Ji Zhang - 
-Alexis Leon Delgado - 
-Alba Molina Cuadrado - 
-David Morante Torra - 
-Teresa Peña Mercadé - 
-Ferran Rubio Vallhonrat - 
-Iván Sermanoukian Molina - 
+Yi Qiang Ji Zhang
+
+Alexis Leon Delgado
+
+Alba Molina Cuadrado
+
+David Morante Torra
+
+Teresa Peña Mercadé
+
+Ferran Rubio Vallhonrat
+
+Iván Sermanoukian Molina
+
 Santiago Villarroya Calavia
