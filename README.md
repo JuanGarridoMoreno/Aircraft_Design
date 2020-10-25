@@ -6,7 +6,6 @@ Professor: Martí Coma Company
 
 Authors:
 
-Authors: 
 Cristian Asensio García
 
 Juan Garrido Moreno
